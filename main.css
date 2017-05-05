@@ -1,0 +1,29 @@
+.test {
+    width: 400px;
+    height: 400px;
+    margin:100px;
+    background: red;
+    position: relative;
+}
+.xy {
+    width: 10px;
+    height: 10px;
+    background: #000;
+    position: absolute;
+    z-index: 3;
+}
+
+.keypress {
+    width: 400px;
+    height: 400px;
+    margin:100px;
+    border: 1px solid #000;
+    position: relative;
+}
+.arrows {
+    width: 10px;
+    height: 10px;
+    background: #000;
+    position: absolute;
+    z-index: 3;
+}
