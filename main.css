@@ -1,3 +1,12 @@
+.keyp2 {
+    width: 400px;
+    height: 400px;
+    background: orange;
+    position: fixed;
+    left: -350px;
+    transition: 2s;
+}
+
 .test {
     width: 400px;
     height: 400px;
